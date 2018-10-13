@@ -12,19 +12,19 @@ The application is for managing staff. Written with using [react], [react-native
 
 ###Employee list
 
-![Employee list screen](./img/employee-list.png =220x400)
+<img src="./img/employee-list.png" alt="Employee list screen" style="width: 220px; height: 400px;" />
 
 ###Create employee
 
-![Create screen](./img/create.png =220x400)
+<img src="./img/create.png" alt="Create screen" style="width: 220px; height: 400px;" />
 
 ###Edit employee
 
-![Edit screen](./img/edit.png =220x400)
+<img src="./img/edit.png" alt="Edit screen" style="width: 220px; height: 400px;" />
 
 ###Fire (Delete) employee
 
-![Delete screen](./img/delete.png =220x400)
+<img src="./img/delete.png" alt="Delete screen" style="width: 220px; height: 400px;" />
 
 ## Libraries:
 - [react-native-router-flux] used for navigation
