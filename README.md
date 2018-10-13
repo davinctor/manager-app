@@ -6,20 +6,20 @@ The application is for managing staff. Written with using [react], [react-native
 
 ## Screens
 
-Login
-![Login screen](img/login.png)
+###Login
+![Login screen](img/login.png =220x400)
 
-Employee list
-![Employee list screen](img/employee-list.png)
+###Employee list
+![Employee list screen](img/employee-list.png =220x400)
 
-Create employee
-![Create screen](img/create.png)
+###Create employee
+![Create screen](img/create.png =220x400)
 
-Edit employee
-![Edit screen](img/edit.png)
+###Edit employee
+![Edit screen](img/edit.png =220x400)
 
-Fire (Delete) employee
-![Delete screen](img/delete.png)
+###Fire (Delete) employee
+![Delete screen](img/delete.png =220x400)
 
 ## Libraries:
 - [react-native-router-flux] used for navigation
