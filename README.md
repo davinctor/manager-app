@@ -1,6 +1,7 @@
 # manager-app
 
 The application is for managing staff. Written with using [react], [react-native] and [redux].
+
 The used libraries:
 - [react-native-router-flux] used for navigation
 - [redux-thunk] for asynchronous actions
