@@ -6,25 +6,22 @@ The application is for managing staff. Written with using [react], [react-native
 
 ## Screens
 
-###Login
+### Login
+<img src="./img/login.png" alt="Login screen" width="220" height="400" />
 
-![Login screen](./img/login.png =220x400)
+### Employee list
 
-###Employee list
+<img src="./img/employee-list.png" alt="Employee list screen" width="220" height="400" />
 
-<img src="./img/employee-list.png" alt="Employee list screen" style="width: 220px; height: 400px;" />
+### Create employee
 
-###Create employee
+<img src="./img/create.png" alt="Create screen" width="220" height="400" />
 
-<img src="./img/create.png" alt="Create screen" style="width: 220px; height: 400px;" />
+### Edit employee
+<img src="./img/edit.png" alt="Edit screen" width="220" height="400" />
 
-###Edit employee
-
-<img src="./img/edit.png" alt="Edit screen" style="width: 220px; height: 400px;" />
-
-###Fire (Delete) employee
-
-<img src="./img/delete.png" alt="Delete screen" style="width: 220px; height: 400px;" />
+### Fire (Delete) employee
+<img src="./img/delete.png" alt="Delete screen" width="220" height="400" />
 
 ## Libraries:
 - [react-native-router-flux] used for navigation
