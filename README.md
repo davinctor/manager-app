@@ -1,8 +1,27 @@
 # manager-app
 
+## Description
+
 The application is for managing staff. Written with using [react], [react-native] and [redux].
 
-The used libraries:
+## Screens
+
+Login
+![Login screen](img/login.png)
+
+Employee list
+![Employee list screen](img/employee-list.png)
+
+Create employee
+![Create screen](img/create.png)
+
+Edit employee
+![Edit screen](img/edit.png)
+
+Fire (Delete) employee
+![Delete screen](img/delete.png)
+
+## Libraries:
 - [react-native-router-flux] used for navigation
 - [redux-thunk] for asynchronous actions
 - [firebase-auth] for user managment
